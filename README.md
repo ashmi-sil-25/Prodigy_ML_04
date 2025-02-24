@@ -43,7 +43,7 @@ After training, the model is tested on unseen images to measure how well it gene
 - **Confusion Matrix:** A matrix is generated to visualize which gestures are correctly or incorrectly classified. This helps identify where the model makes errors.
 - **Loss Graphs:** Training and validation loss graphs are plotted to check if the model is overfitting (memorizing training data instead of learning general patterns).
   
-**7. Visualizing Results**
+### 7. Visualizing Results
 To make the analysis more interactive, various graphs and plots are generated:
 - **Gesture Distribution Plot:** Displays how many images belong to each gesture category.
 - **Training vs. Validation Accuracy Graph:** Helps in identifying if the model is learning well or if improvements are needed.
